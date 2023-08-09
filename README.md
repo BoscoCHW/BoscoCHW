@@ -5,7 +5,6 @@ Hi, my name is Bosco. Originally from Hong Kong, I'm now a student at the Britis
 * AWS Solution Architect Associate
 
 ### Stats 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=BoscoCHW&count_private=true&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BoscoCHW&langs_count=10&layout=compact&hide=css,ejs,html) 
 
 
