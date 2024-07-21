@@ -12,3 +12,6 @@ Hi, my name is Bosco. I am an aspiring, self-motivated software developer who ha
 * [Personal Website](https://bosco-chan.netlify.app/)
 * [LinkedIn](https://linkedin.com/in/boscochw/)
 * [Email](mailto:bosco.chw@gmail.com)
+
+### Github Actions Certified
+![](github-actions.png?raw=true)
